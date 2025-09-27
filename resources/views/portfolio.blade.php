@@ -90,7 +90,7 @@
                 <div class="relative">
                     <!-- Timeline line -->
                     <div class="absolute left-8 top-0 bottom-0 w-0.5 bg-red-200"></div>
-                    
+
                     <div class="space-y-12">
                         <!-- Current Job -->
                         <div class="relative animate-slideInRight">
@@ -197,7 +197,7 @@
                             <div class="w-4 h-4 bg-red-900 rounded-full mr-4 animate-pulse"></div>
                             <h3 class="text-2xl font-bold text-red-900">Hackberry Softech Projects</h3>
                         </div>
-                        
+
                         <div class="space-y-6">
                             <div class="bg-red-50 rounded-xl p-6 border-l-4 border-red-900 hover:bg-red-100 transition-colors">
                                 <h4 class="text-xl font-bold text-red-800 mb-3">🏭 Rachna Warehouse</h4>
@@ -206,7 +206,7 @@
                                     <i class="fas fa-external-link-alt mr-2"></i>View Live Project
                                 </a>
                             </div>
-                            
+
                             <div class="bg-red-50 rounded-xl p-6 border-l-4 border-red-700 hover:bg-red-100 transition-colors">
                                 <h4 class="text-xl font-bold text-red-800 mb-3">💼 Kap9 Solutions</h4>
                                 <p class="text-gray-700 mb-4">Dynamic business website with full CMS functionality, responsive design, and modern user interface.</p>
@@ -214,7 +214,7 @@
                                     <i class="fas fa-external-link-alt mr-2"></i>View Live Project
                                 </a>
                             </div>
-                            
+
                             <div class="bg-red-50 rounded-xl p-6 border-l-4 border-red-800 hover:bg-red-100 transition-colors">
                                 <h4 class="text-xl font-bold text-red-800 mb-3">🎓 DigiSchool (SaaS)</h4>
                                 <p class="text-gray-700 mb-4">Comprehensive school management SaaS platform with student, teacher, and administrative modules.</p>
@@ -222,7 +222,7 @@
                                     <i class="fas fa-external-link-alt mr-2"></i>View Live Project
                                 </a>
                             </div>
-                            
+
                             <div class="bg-red-50 rounded-xl p-6 border-l-4 border-red-900 hover:bg-red-100 transition-colors">
                                 <h4 class="text-xl font-bold text-red-800 mb-3">📱 QR Pass</h4>
                                 <p class="text-gray-700 mb-4">QR code-based pass management system for secure access control and visitor management.</p>
@@ -232,14 +232,14 @@
                             </div>
                         </div>
                     </div>
-                    
+
                     <!-- Urteci Projects -->
                     <div class="bg-white rounded-2xl p-8 shadow-2xl border border-red-100 hover:shadow-3xl transition-all duration-500 hover:scale-105 animate-slideInRight">
                         <div class="flex items-center mb-6">
                             <div class="w-4 h-4 bg-red-700 rounded-full mr-4 animate-pulse"></div>
                             <h3 class="text-2xl font-bold text-red-900">Urteci Projects</h3>
                         </div>
-                        
+
                         <div class="space-y-6">
                             <div class="bg-red-50 rounded-xl p-6 border-l-4 border-red-700 hover:bg-red-100 transition-colors">
                                 <h4 class="text-xl font-bold text-red-800 mb-4">🏘️ Society Management System</h4>
@@ -251,7 +251,7 @@
                                     <li class="flex items-center"><span class="text-red-900 mr-2">✓</span> Online payment processing</li>
                                 </ul>
                             </div>
-                            
+
                             <div class="bg-red-50 rounded-xl p-6 border-l-4 border-red-800 hover:bg-red-100 transition-colors">
                                 <h4 class="text-xl font-bold text-red-800 mb-4">🛍️ Varmishades</h4>
                                 <p class="text-gray-700 mb-4">E-commerce platform for window treatments with full functionality:</p>
@@ -265,7 +265,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="text-center mt-16 animate-fadeInUp animation-delay-800">
                     <div class="bg-red-50 rounded-2xl p-8 border border-red-200 max-w-2xl mx-auto">
                         <div class="text-2xl mb-4">📊</div>
@@ -300,7 +300,7 @@
                 <div class="relative">
                     <!-- Timeline line -->
                     <div class="absolute left-8 top-0 bottom-0 w-0.5 bg-red-200"></div>
-                    
+
                     <div class="space-y-8">
                         <div class="relative animate-slideInRight">
                             <div class="absolute left-6 w-4 h-4 bg-red-900 rounded-full border-4 border-white shadow-lg"></div>
@@ -386,7 +386,7 @@
                     <div class="text-4xl mb-6">💬</div>
                     <h3 class="text-3xl font-bold text-red-900 mb-4">Let's Build Something Amazing Together!</h3>
                     <p class="text-xl text-gray-700 mb-12">Ready to turn your ideas into reality? I'd love to hear about your next project.</p>
-                    
+
                     <div class="grid md:grid-cols-3 gap-8 mb-12">
                         <div class="text-center group hover:scale-105 transition-transform duration-300">
                             <div class="bg-red-50 w-20 h-20 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:bg-red-100 transition-colors">
@@ -397,7 +397,7 @@
                                 neha.pativar@example.com
                             </a>
                         </div>
-                        
+
                         <div class="text-center group hover:scale-105 transition-transform duration-300">
                             <div class="bg-red-50 w-20 h-20 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:bg-red-100 transition-colors">
                                 <i class="fab fa-linkedin text-red-900 text-2xl"></i>
@@ -407,7 +407,7 @@
                                 Let's Connect
                             </a>
                         </div>
-                        
+
                         <div class="text-center group hover:scale-105 transition-transform duration-300">
                             <div class="bg-red-50 w-20 h-20 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:bg-red-100 transition-colors">
                                 <i class="fab fa-github text-red-900 text-2xl"></i>
@@ -418,14 +418,14 @@
                             </a>
                         </div>
                     </div>
-                    
+
                     <div class="bg-red-50 rounded-xl p-6 max-w-2xl mx-auto">
                         <div class="text-2xl mb-4">🚀</div>
                         <h4 class="text-xl font-bold text-red-900 mb-3">Ready to Start Your Project?</h4>
                         <p class="text-gray-700 mb-4">I'm available for freelance projects and full-time opportunities.</p>
                         <div class="bg-white rounded-lg p-4 font-mono text-sm">
-                            <span class="text-red-900">$</span> 
-                            <span class="text-gray-700">composer require</span> 
+                            <span class="text-red-900">$</span>
+                            <span class="text-gray-700">composer require</span>
                             <span class="text-red-800 font-bold">neha-pativar/laravel-expertise</span>
                         </div>
                     </div>
